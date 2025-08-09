@@ -1,55 +1,69 @@
-# 👋 Hi, I’m Sumukh Shrivas
-**Pre-Final Year B.Tech (Production & Industrial Engineering) @ IIT Roorkee**  
-Data Analyst · Predictive Maintenance · NLP · SQL · Python · Visualization  
-Village Head @ Unnat Bharat Abhiyan (UBA) · Manager @ Sangram'24
+<!-- Profile Header -->
+<h1 align="center">
+  Hey there, I'm <a href="https://www.linkedin.com/in/sumukh-shrivas-065537209/" target="_blank">Sumukh Shrivas</a> 👋
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumukh-shrivas-065537209/) 
-[![Email](https://img.shields.io/badge/Email-sumukh_s@me.iitr.ac.in-red?logo=gmail&logoColor=white)](mailto:sumukh_s@me.iitr.ac.in) 
-[![Resume](https://img.shields.io/badge/Resume-PDF-orange?logo=adobeacrobat&logoColor=white)](./resume.pdf)
-
----
-
-## 🚀 About
-I craft data-driven solutions to turn messy data into actionable insights. My primary focus areas are **predictive maintenance**, **time-series analytics**, and **NLP-based sentiment analysis**. I combine technical skills with leadership experience from rural development projects and large campus events.
-
-**Core strengths:** Data cleaning, feature engineering, model building (Random Forest / SVM / LSTM / 1D-CNN), visualization, and deploying lightweight ML services (Flask).
+<p align="center">
+  <a href="https://github.com/sumukh-shrivas">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=550&lines=Data+Analyst+%7C+ML+Enthusiast;Pre-Final+Year+@+IIT+Roorkee;Predictive+Maintenance+%26+NLP;Turning+Data+into+Insights" />
+  </a>
+</p>
 
 ---
 
-## 🔭 Featured Projects
-
-### Predictive Maintenance — *Early fault detection on NASA bearing datasets*
-- **Tech:** Python, Pandas, Scikit-Learn, PCA, EMA, SciPy  
-- Built EDA + feature engineering pipeline on 20k+ time-series records; used PCA to retain 99.15% variance.  
-- Model: Random Forest → **93.86% accuracy**, 93.88% F1-score.  
-- [Project Repo 🔗](#) · [Live/Notebook 🔗](#)
+## 🚀 About Me  
+🎓 **B.Tech Pre-Final Year** in Production & Industrial Engineering @ **IIT Roorkee**  
+📊 Passionate about **Data Analytics, Machine Learning, and Predictive Modeling**  
+🌱 Currently exploring **Deep Learning** & **Data Engineering Pipelines**  
+⚡ Leadership experience: **Village Head @ UBA** & **Manager @ Sangram'24**  
 
 ---
 
-### Sentiment Analysis — *Amazon Alexa reviews*
-- **Tech:** Python, scikit-learn, TF-IDF, Flask, Jupyter  
-- Processed ~3,150 reviews; trained Logistic Regression / Naive Bayes achieving **91.2%** accuracy.  
-- Built a Flask REST app for real-time predictions.  
-- [Project Repo 🔗](#) · [Demo 🔗](#)
+## 🛠 Tech Arsenal  
+
+<div align="center">
+
+### 💻 Programming Languages  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010" />  
+
+### 📊 Data Science & ML  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=101010" />  
+
+### 🗄 Databases & Tools  
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" /> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010" />  
+
+</div>
 
 ---
 
-> Want more? See the `projects/` folder for notebooks, model artifacts, and a demo Flask app.
+## 📂 Featured Projects
+
+### 🔧 Predictive Maintenance (NASA Bearing Dataset)
+- PCA retained **99.15% variance**; Random Forest achieved **93.86% accuracy**.  
+- [View Repo](#) | [Live Demo](#)
+
+### 💬 Alexa Sentiment Analysis
+- Logistic Regression & Naive Bayes → **91.2% accuracy**.  
+- Flask REST API for real-time predictions.  
+- [View Repo](#) | [Live Demo](#)
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Python · SQL · R · JavaScript · Advanced Excel  
-**ML / DS:** Pandas · NumPy · Scikit-Learn · SciPy · TensorFlow / PyTorch (basics)  
-**Viz & BI:** Matplotlib · Seaborn · Tableau · PowerBI  
-**DB & Tools:** PostgreSQL · MySQL · SQLite · Git/GitHub · Jupyter
+## 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SumukhShrivas-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumukh-shrivas-065537209/)  
+[![Email](https://img.shields.io/badge/Email-sumukh_s@me.iitr.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumukh_s@me.iitr.ac.in)  
 
 ---
-
-## 📊 GitHub Stats
-<!-- Replace <your-github-username> with your username -->
-![Sumukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)
-
----
-
-## 📂 How this repo is organized
